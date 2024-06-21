@@ -4,7 +4,7 @@ The aim of this repository is to analyze consumer behavior during the Diwali Fes
 The dataset is available at: https://www.kaggle.com/datasets/umairabbasi6/diwali-sales-data-e-commerce-dataset/data
 
 <b>Status:</b> In progress
-
+ 
 ## Languages and Libraries
 <div align="left">
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="25" />
